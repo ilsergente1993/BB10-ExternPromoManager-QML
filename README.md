@@ -42,6 +42,7 @@ in your setting page or wherever you want allow the user to check the promotion
 
 
 the sequence is:
+
 	- **promoManager triggering**
 	- **sysp_promocode will be showed to insert the promo code**
 	- **on sysp_promocode onFinished**
